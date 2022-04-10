@@ -1,0 +1,155 @@
+{
+  "ValType": [
+    {
+      "Valute": [
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Palladium",
+          "Value": "",
+          "Code": "XPD"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Platin",
+          "Value": "",
+          "Code": "XPT"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Gümüş",
+          "Value": "",
+          "Code": "XAG"
+        },
+        {
+          "Nominal": "1 t.u.",
+          "Name": "Qızıl",
+          "Value": "",
+          "Code": "XAU"
+        }
+      ],
+      "Type": "Bank metalları"
+    },
+    {
+      "Valute": [
+        {
+          "Nominal": "1",
+          "Name": "1 ABŞ dolları",
+          "Value": "4387",
+          "Code": "USD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Avstraliya dolları",
+          "Value": "3175.3",
+          "Code": "AUD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Danimarka kronu",
+          "Value": "803.11",
+          "Code": "DKK"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İngiltərə funt sterlinqi",
+          "Value": "7089.53",
+          "Code": "GBP"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 İran rialı",
+          "Value": "1.87",
+          "Code": "IRR"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İsveç kronu",
+          "Value": "595.37",
+          "Code": "SEK"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 İsveçrə frankı",
+          "Value": "3864.86",
+          "Code": "CHF"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Kanada dolları",
+          "Value": "3149.54",
+          "Code": "CAD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Küveyt dinarı",
+          "Value": "15179.93",
+          "Code": "KWD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Qazaxıstan tengəsi",
+          "Value": "71.57",
+          "Code": "KZT"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Qırğızıstan somu",
+          "Value": "402.48",
+          "Code": "KGS"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Livan funtu",
+          "Value": "4.91",
+          "Code": "LBP"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Moldova leyi",
+          "Value": "989.18",
+          "Code": "MDL"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Misir funtu",
+          "Value": "1293.95",
+          "Code": "EGP"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Norveç kronu",
+          "Value": "708.49",
+          "Code": "NOK"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Rusiya rublu",
+          "Value": "0.9",
+          "Code": "RUB"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Sinqapur dolları",
+          "Value": "3115.77",
+          "Code": "SGD"
+        },
+        {
+          "Nominal": "1",
+          "Name": "1 Türkiyə lirəsi",
+          "Value": "110",
+          "Code": "TRY"
+        },
+        {
+          "Nominal": "100",
+          "Name": "100 Yaponiya yeni",
+          "Value": "50.8",
+          "Code": "JPY"
+        }
+      ],
+      "Type": "Xarici valyutalar"
+    }
+  ],
+  "Date": "07.04.1995",
+  "Name": "AZN məzənnələri",
+  "Description": "Azərbaycan Respublikası Mərkəzi Bankının 07.04.1995 tarixdən etibarən xarici valyutaların və bank metallarının Azərbaycan manatına qarşı rəsmi məzənnələri bülleteni"
+}
